@@ -4,16 +4,16 @@
   "description": "TS Web Scraper",
   "main": "index.js",
   "type": "module",
-  "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "ts",
     "typescript",
-    "web",
-    "scraper"
+    "web scraper"
   ],
   "author": "A. Wicher",
   "license": "GPL-3.0-or-later",
