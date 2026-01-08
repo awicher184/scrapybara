@@ -1,0 +1,24 @@
+{
+  "name": "scrapybara",
+  "version": "0.1.0",
+  "description": "TS Web Scraper",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ts",
+    "typescript",
+    "web",
+    "scraper"
+  ],
+  "author": "A. Wicher",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/awicher184/scrapybara/issues"
+  },
+  "homepage": "https://github.com/awicher184/scrapybara#readme"
+}
