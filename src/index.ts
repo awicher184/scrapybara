@@ -1,3 +1,4 @@
-import { scrape } from "./crawler/cve-org.js";
+import { scrape } from "./scraper/cve-org.js";
 
-scrape()
+const cveRecords = await scrape()
+console.log(cveRecords)
